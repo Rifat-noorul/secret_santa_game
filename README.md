@@ -1,7 +1,7 @@
 🎄 SECRET SANTA PAIR GENERATOR 🎄
 =================================
 
-Version: 1.0
+Version: 1 .0
 Date: December 2023
 
 DESCRIPTION
